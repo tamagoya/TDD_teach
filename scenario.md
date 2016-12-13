@@ -51,7 +51,7 @@ cloneしたらtdd-startブランチに移動
 
 #### フィールド
 |名称|型|説明|
-|-|-|-|
+|---|---|---|
 |class_name|string|商品名|
 |class_id|string|商品ID|
 |price|int|商品1つあたりの金額|
