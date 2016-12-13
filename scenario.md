@@ -34,13 +34,13 @@ cloneしたらtdd-startブランチに移動
 #### フィールド
 
 |名称|型|説明|
-|-|-|-|
+|---|---|---|
 |CartItems|CartItem[]|カート商品の配列|
 
 #### メソッド
 
 |名称|戻り値の型|説明|
-|-|-|-|
+|---|---|---|
 |addCartItem(CartItem)|void|カートに商品を追加する|
 |getTotalQuantity()|int|カートに入っている商品の個数を計算する|
 |getTotalPrice()|int|カートに入っている商品の合計金額を計算する|
